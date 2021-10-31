@@ -13,7 +13,7 @@ function Chat({ chat, messages }) {
         <Container>
             <Head>
                 <title>Chat with {getRecipientEmail(chat.users, user)}</title>
-                <link rel="icon" href="https://cdn.pixabay.com/photo/2016/04/25/07/15/man-1351317_960_720.png" />
+                <link rel="icon" href="https://image.freepik.com/free-vector/flying-satellite-with-antenna-space-cartoon-icon-illustration_138676-2898.jpg" />
             </Head>
 
             <Sidebar />

@@ -9,7 +9,7 @@ function Loading() {
         }}>
             <div>
                 <img
-                    src="https://image.freepik.com/free-vector/flying-satellite-with-antenna-space-cartoon-icon-illustration_138676-2898.jpg"
+                    src="https://cdn.pixabay.com/photo/2016/04/25/07/15/man-1351317_960_720.png"
                     alt=""
                     height={400}
                     style={{
