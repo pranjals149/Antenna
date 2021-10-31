@@ -11,7 +11,4 @@
 4. Now, run the server - ```npm run dev```
 5. The local server is started.
 
-### Working Screenshot
-<img src='Antenna.gif' />
-
 **Hope you like it !!**
